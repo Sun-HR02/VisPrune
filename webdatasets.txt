@@ -1,0 +1,3 @@
+wds/imagenet1k
+wds/voc2007
+wds/vtab/cifar10
